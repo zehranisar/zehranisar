@@ -6,68 +6,65 @@ Computer Science Student | Full Stack Developer | AI Enthusiast
 
 I'm a Computer Science student passionate about building real-world software solutions. I enjoy developing full-stack web applications, exploring AI-powered systems, and working on projects involving software engineering, computer graphics, and compiler design.
 
-## Tech Stack
+##  Current Focus
+- Full Stack Web Development (React + Flask)
+- AI-powered Applications
+- Database Design & Management
+- Software Engineering Best Practices
+
+##  Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- Java
-- C++
+Python • JavaScript • Java • C++
 
 ### Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
 ### Backend
-- Flask
-- REST APIs
+Flask • REST APIs
 
 ### Databases
-- MySQL
-- SQLite
+MySQL • SQLite
 
 ### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Android Studio
-- Postman
+Git • GitHub • VS Code • Android Studio • Postman
 
 ### Other Areas
-- OpenGL Graphics Programming
-- Compiler Design
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
+OpenGL Graphics Programming • Compiler Design • OOP • Data Structures & Algorithms
 
-## Featured Work
+## 📌 Featured Projects
 
 ### Personal Projects
-- **NexSpend** — Full-stack expense tracking and analytics platform built with React and Flask.
-- **EventManager** — Android application for managing university events, registrations, reminders, and notifications.
+🔹 **NexSpend**
+Full-stack expense tracking and analytics platform built with React and Flask.
+
+🔹 **EventManager**
+Android application for university event management, registrations, reminders, and email notifications.
 
 ### Team Contributions
-- **TalentScan AI** — Contributed to frontend and backend development for an AI-powered career recommendation system.
-- **Solar System Simulation** — Developed interactive UI features and user controls for a computer graphics project.
-- **SimpleLang Compiler** — Contributed to the implementation of compiler phases and overall system functionality.
+🔹 **TalentScan AI**
+Contributed to frontend and backend development for an AI-powered career recommendation system.
 
-## Currently Learning
+🔹 **Solar System Simulation**
+Developed interactive UI controls and user interaction features for a computer graphics project.
 
-- Advanced React Development
-- Backend Architecture
-- Database Design
-- Software Engineering Practices
+🔹 **SimpleLang Compiler**
+Contributed to compiler phase implementation and system functionality.
 
-## Career Goals
-
-- Build impactful software solutions
+##  Career Goals
+- Build impactful software products
 - Strengthen expertise in Full Stack Development
-- Explore AI-driven applications
+- Explore AI-driven solutions
 - Grow as a Software Engineer in the tech industry
 
-## Contact
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehranisar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zehranisar&layout=compact)
+
+## 📫 Connect With Me
 
 📧 zehranisar75@gmail.com
 
-🔗 GitHub: github.com/zehranisar
+💻 GitHub: github.com/zehranisar
