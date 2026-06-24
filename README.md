@@ -27,7 +27,7 @@ Flask • REST APIs
 MySQL • SQLite
 
 ### Tools & Platforms
-Git • GitHub • VS Code • Android Studio • Postman
+Git • GitHub • Jira •  VS Code • Android Studio • Postman
 
 ### Other Areas
 OpenGL Graphics Programming • Compiler Design • OOP • Data Structures & Algorithms
