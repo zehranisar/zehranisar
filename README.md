@@ -1,17 +1,23 @@
 <p align="center">
   <img src="assets/banner/banner.png" width="100%" alt="Zehra Nisar Banner"/>
 </p>
-
 <h1 align="center">
+
 Hi 👋 I'm Zehra Nisar
+
 </h1>
 
 <h3 align="center">
+
 AI & Full Stack Developer
+
 </h3>
 
 <p align="center">
-Building Intelligent Web Applications with Artificial Intelligence, Machine Learning & Modern Web Technologies
+
+Building Intelligent Web Applications with Artificial Intelligence,
+Machine Learning and Modern Web Technologies.
+
 </p>
 
 <p align="center">
@@ -23,31 +29,31 @@ Building Intelligent Web Applications with Artificial Intelligence, Machine Lear
 ---
 # 👩‍💻 About Me
 
-I'm **Zehra Nisar**, a Computer Science student passionate about building intelligent, scalable, and user-focused software solutions.
+I'm **Zehra Nisar**, a passionate **AI & Full Stack Developer** and a **Bachelor of Computer Science** student with a strong interest in building intelligent software solutions.
 
-My primary focus is developing AI-powered Full Stack applications that combine Machine Learning, modern web technologies, and clean software architecture to solve real-world problems.
+I specialize in developing modern web applications that combine **Artificial Intelligence**, **Machine Learning**, and **scalable backend architectures** to solve real-world problems.
 
-I enjoy learning new technologies, exploring Artificial Intelligence, and transforming innovative ideas into practical applications.
+I'm continuously learning emerging technologies, exploring **Agentic AI**, and building impactful projects that transform innovative ideas into practical digital solutions.
 
 ---
 # 🚀 Current Focus
 
-- 🤖 Building AI-powered Full Stack Applications
+- 🤖 Developing AI-powered Full Stack Applications
 
 - ⚡ Exploring Agentic AI & Intelligent Automation
 
 - 📊 Machine Learning & Predictive Analytics
 
-- 🌐 REST API Development using FastAPI & Flask
+- 🌐 REST API Development with FastAPI & Flask
 
-- 💻 Creating Modern React Applications
+- 💻 Building Modern React Applications
 
-- 📈 Continuously Improving Problem Solving Skills
+- 📈 Continuously Improving System Design & Problem Solving Skills
 
 ---
 # 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
 <p>
 
@@ -55,7 +61,7 @@ I enjoy learning new technologies, exploring Artificial Intelligence, and transf
 
 </p>
 
-### Frontend
+### ⚛️ Frontend Development
 
 <p>
 
@@ -63,7 +69,7 @@ I enjoy learning new technologies, exploring Artificial Intelligence, and transf
 
 </p>
 
-### Backend
+### ⚙️ Backend Development
 
 <p>
 
@@ -71,7 +77,7 @@ I enjoy learning new technologies, exploring Artificial Intelligence, and transf
 
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 
@@ -79,132 +85,99 @@ I enjoy learning new technologies, exploring Artificial Intelligence, and transf
 
 </p>
 
-### Tools
+### 🤖 AI & Machine Learning
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 
 </p>
 
----
-# 🛠 Tech Stack
-
-### Languages
+### ☁️ Deployment & Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman"/>
 
 </p>
 
 ---
 # 💡 Philosophy
 
-> **"Building intelligent solutions that bridge Artificial Intelligence and modern Full Stack Development to solve real-world problems."**
+> **"Transforming ideas into intelligent digital solutions through Artificial Intelligence, Machine Learning, and modern Full Stack Development."**
 
 ---
 # 🚀 Featured Projects
 
-These are some of my featured projects showcasing my expertise in **Artificial Intelligence, Machine Learning, Full Stack Development, and Modern Web Technologies**.
+The following projects represent my journey in **Artificial Intelligence, Machine Learning, Full Stack Development, and Modern Software Engineering**.
 
+Each project focuses on solving real-world problems through scalable architecture, clean user experiences, and intelligent technologies.
+
+---
 <table>
 
 <tr>
 
-<td width="50%">
-
-## ⚡ PowerPilot AI
-
-**AI-Powered Electricity Demand Forecasting Platform**
-
-An intelligent forecasting platform that combines Machine Learning, FastAPI, PostgreSQL and Gemini AI to predict electricity demand with interactive dashboards and AI-powered insights.
-
-**🛠 Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgresql,python"/>
-
-<br><br>
-
-<a href="https://github.com/zehranisar/PowerPilot-AI">
-
-<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td width="50%">
+<td width="42%">
 
 <img src="https://raw.githubusercontent.com/zehranisar/PowerPilot-AI/main/assets/banner/banner.png"/>
 
 </td>
 
+<td width="58%">
+
+## ⚡ PowerPilot AI
+
+### AI-Powered Electricity Demand Forecasting Platform
+
+An intelligent web platform that predicts electricity demand using Machine Learning while providing AI-powered insights, interactive dashboards, and predictive analytics.
+
+### 🛠 Technologies
+
+`React` • `FastAPI` • `PostgreSQL` • `Machine Learning` • `Gemini AI`
+
+<br>
+
+<a href="https://github.com/zehranisar/PowerPilot-AI">
+
+<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+
+</a>
+
+</td>
+
 </tr>
 
 </table>
 
 ---
-
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="42%">
 
 <img src="https://raw.githubusercontent.com/zehranisar/NexSpend/master/assets/banner/banner.png"/>
 
 </td>
 
-<td width="50%">
+<td width="58%">
 
 ## 💰 NexSpend
 
-**Smart Expense Management System**
+### Smart Expense Management Platform
 
-OCR-powered expense tracking application featuring intelligent receipt scanning, budgeting, analytics, and financial management.
+A modern expense management application featuring OCR-powered receipt scanning, budgeting, analytics, and intelligent financial tracking.
 
-**🛠 Tech Stack**
+### 🛠 Technologies
 
-<img src="https://skillicons.dev/icons?i=react,flask,sqlite"/>
+`React` • `Flask` • `SQLite` • `OCR`
 
-<br><br>
+<br>
 
 <a href="https://github.com/zehranisar/NexSpend">
 
-<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -215,36 +188,35 @@ OCR-powered expense tracking application featuring intelligent receipt scanning,
 </table>
 
 ---
-
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="42%" align="center">
+
+❤️ AI Healthcare Platform
+
+</td>
+
+<td width="58%">
 
 ## ❤️ CardioCare AI
 
-**AI-Powered Heart Disease Prediction**
+### Intelligent Heart Disease Prediction System
 
-Machine Learning based healthcare platform that predicts heart disease risk while providing intelligent insights and interactive dashboards.
+Machine Learning powered healthcare application that predicts cardiovascular disease risk and provides intelligent health insights.
 
-**🛠 Tech Stack**
+### 🛠 Technologies
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,python"/>
+`React` • `FastAPI` • `Machine Learning`
 
-<br><br>
+<br>
 
 <a href="https://github.com/zehranisar/CardioCare-AI">
 
-<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
 
 </a>
-
-</td>
-
-<td width="50%" align="center">
-
-🚀 Coming Soon
 
 </td>
 
@@ -253,34 +225,33 @@ Machine Learning based healthcare platform that predicts heart disease risk whil
 </table>
 
 ---
-
 <table>
 
 <tr>
 
-<td width="50%" align="center">
+<td width="42%" align="center">
 
-🚀 Coming Soon
+🏔 Tourism Management Platform
 
 </td>
 
-<td width="50%">
+<td width="58%">
 
 ## 🏔 Majestic North Tours
 
-**Modern Tourism Management Platform**
+### Complete Tourism Management System
 
-A full-stack tourism management platform with booking management, admin dashboard, reviews, and tour management features.
+A full-stack tourism platform featuring tour management, online bookings, reviews, contact management, and an admin dashboard.
 
-**🛠 Tech Stack**
+### 🛠 Technologies
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgresql"/>
+`React` • `FastAPI` • `PostgreSQL`
 
-<br><br>
+<br>
 
 <a href="https://github.com/zehranisar/Majestic-North-Tours">
 
-<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
 
 </a>
 
@@ -291,94 +262,40 @@ A full-stack tourism management platform with booking management, admin dashboar
 </table>
 
 ---
-
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="42%" align="center">
 
-## 🎉 Event Manager
-
-**Event Planning & Management System**
-
-A complete event management platform for organizing, scheduling, and managing events through an intuitive user experience.
-
-**🛠 Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=react,flask,sqlite"/>
-
-<br><br>
-
-<a href="https://github.com/zehranisar/Eventmanager">
-
-<img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge"/>
-
-</a>
+🎉 Event Management Platform
 
 </td>
 
-<td width="50%" align="center">
+<td width="58%">
 
-🚀 Coming Soon
+## 🎉 Event Manager
+
+### Smart Event Planning System
+
+An event management application designed to simplify event organization, scheduling, and management through an intuitive interface.
+
+### 🛠 Technologies
+
+`React` • `Flask` • `SQLite`
+
+<br>
+
+<a href="https://github.com/zehranisar/Eventmanager">
+
+<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+
+</a>
 
 </td>
 
 </tr>
 
 </table>
-
----
-
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zehranisar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zehranisar&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehranisar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</p>
-
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zehranisar&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zehranisar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/zehranisar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/zehra-nisar-868ba3423/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
 
 ---
