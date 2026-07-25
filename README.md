@@ -59,13 +59,24 @@ Machine Learning and Modern Web Technologies.
 ---
 # 👩‍💻 About Me
 
-I'm **Zehra Nisar**, a passionate **AI & Full Stack Developer** and a **Bachelor of Computer Science** student with a strong interest in building intelligent software solutions.
 
-I specialize in developing modern web applications that combine **Artificial Intelligence**, **Machine Learning**, and **scalable backend architectures** to solve real-world problems.
+I'm **Zehra Nisar**, an **AI & Full Stack Developer** passionate about building intelligent software that solves real-world challenges.
 
-I'm continuously learning emerging technologies, exploring **Agentic AI**, and building impactful projects that transform innovative ideas into practical digital solutions.
+My work combines **Artificial Intelligence**, **Machine Learning**, and **modern Full Stack Development** to create scalable applications across multiple industries, including **Healthcare, Energy, Finance, Tourism, and Event Management**.
+
+I'm continuously exploring emerging AI technologies, improving my software engineering skills, and building impactful digital solutions that bridge innovation with real-world needs.
 
 ---
+# 🌟 Professional Highlights
+
+- 🤖 Built AI-powered applications across **Healthcare, Energy, Finance, Tourism, and Event Management**
+- 🚀 Developed Full Stack solutions using **React, FastAPI, Flask, PostgreSQL, and SQLite**
+- 🧠 Certified in **Deep Learning, Machine Learning, Python for AI, and Ethical Hacking**
+- 🎓 CS50x Puzzle Day 2026 Participant (Harvard University)
+- 🌱 Passionate about Artificial Intelligence, Intelligent Automation, and Modern Software Engineering
+
+---
+
 # ⚡ Quick Facts
 
 - 🎓 Bachelor of Computer Science Student
@@ -100,6 +111,75 @@ I'm continuously learning emerging technologies, exploring **Agentic AI**, and b
 - 🐳 Docker & Containerization
 - 🧩 System Design
 - 📈 Scalable Backend Development
+
+---
+# 📜 Certifications
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 Deep Learning Specialization
+
+**Platform:** Coursera
+
+Advanced concepts in Deep Learning, Neural Networks, and AI.
+
+</td>
+
+<td width="50%">
+
+### 🤖 Machine Learning Specialization
+
+**Platform:** Coursera
+
+Comprehensive training in Machine Learning algorithms and predictive modeling.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🐍 Python for AI, Data Science and Development
+
+**Platform:** Coursera
+
+Python programming for Artificial Intelligence and Data Science applications.
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Ethical Hacking
+
+**Organization:** LWE
+
+Fundamentals of cybersecurity, penetration testing, and ethical hacking.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+### 🎓 CS50x Puzzle Day 2026
+
+**Harvard University**
+
+Participated in Harvard University's CS50x Puzzle Day, solving collaborative programming and logical reasoning challenges.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 # 🛠 Tech Stack
@@ -154,54 +234,16 @@ I'm continuously learning emerging technologies, exploring **Agentic AI**, and b
 
 ---
 
-# 💻 Development Environment
 
-```text
-💻 VS Code               ████████████████████ 100%
-
-🐍 Python                █████████████████░░ 95%
-
-⚛ React                 ████████████████░░░ 90%
-
-⚡ FastAPI               ███████████████░░░░ 88%
-
-🤖 Machine Learning      ██████████████░░░░░ 85%
-
-🗄 PostgreSQL            █████████████░░░░░░ 82%
-```
 
 ---
 # 🤖 AI Domains
-
-✔ Machine Learning
-
-✔ Predictive Analytics
-
-✔ Explainable AI
-
-✔ AI Chatbots
-
-✔ OCR Applications
-
-✔ Intelligent Automation
-
-✔ Data Visualization
+Machine Learning • Predictive Analytics • OCR • AI Chatbots • Explainable AI • Intelligent Automation
 
 ---
 # 🌍 Development Philosophy
 
-> **"I believe great software is built where intelligent algorithms, thoughtful design, and scalable engineering come together to solve meaningful real-world problems."**
-
----
-# 🌟 Repository Highlights
-
-| Project | Domain |
-|---------|--------|
-| ⚡ PowerPilot AI | Electricity Forecasting |
-| ❤️ CardioCare AI | Healthcare AI |
-| 💰 NexSpend | Finance & OCR |
-| 🏔 Majestic North Tours | Tourism |
-| 🎉 Event Manager | Event Management |
+> **"Building AI & Full Stack solutions that create meaningful impact across multiple industries through intelligent software engineering."**
 
 ---
 # 🚀 Featured Projects
