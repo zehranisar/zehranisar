@@ -253,13 +253,15 @@ The following projects represent my journey in **Artificial Intelligence, Machin
 Each project focuses on solving real-world problems through scalable architecture, clean user experiences, and intelligent technologies.
 
 ---
+# 🚀 Featured Projects
+
 <table>
 
 <tr>
 
 <td width="42%">
 
-<img src="https://raw.githubusercontent.com/zehranisar/PowerPilot-AI/main/assets/banner/banner.png"/>
+<img src="assets/projects/powerpilot.png"/>
 
 </td>
 
@@ -269,7 +271,7 @@ Each project focuses on solving real-world problems through scalable architectur
 
 ### AI-Powered Electricity Demand Forecasting Platform
 
-An intelligent web platform that predicts electricity demand using Machine Learning while providing AI-powered insights, interactive dashboards, and predictive analytics.
+An intelligent Full Stack platform that forecasts electricity demand using Machine Learning, interactive analytics, and Google Gemini AI.
 
 ### 🛠 Technologies
 
@@ -279,7 +281,7 @@ An intelligent web platform that predicts electricity demand using Machine Learn
 
 <a href="https://github.com/zehranisar/PowerPilot-AI">
 
-<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -290,13 +292,14 @@ An intelligent web platform that predicts electricity demand using Machine Learn
 </table>
 
 ---
+
 <table>
 
 <tr>
 
 <td width="42%">
 
-<img src="https://raw.githubusercontent.com/zehranisar/NexSpend/master/assets/banner/banner.png"/>
+<img src="assets/projects/nexspend.png"/>
 
 </td>
 
@@ -306,7 +309,7 @@ An intelligent web platform that predicts electricity demand using Machine Learn
 
 ### Smart Expense Management Platform
 
-A modern expense management application featuring OCR-powered receipt scanning, budgeting, analytics, and intelligent financial tracking.
+An OCR-powered expense management application featuring intelligent receipt scanning, budgeting, financial analytics, and expense tracking.
 
 ### 🛠 Technologies
 
@@ -316,7 +319,7 @@ A modern expense management application featuring OCR-powered receipt scanning, 
 
 <a href="https://github.com/zehranisar/NexSpend">
 
-<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -327,13 +330,14 @@ A modern expense management application featuring OCR-powered receipt scanning, 
 </table>
 
 ---
+
 <table>
 
 <tr>
 
-<td width="42%" align="center">
+<td width="42%">
 
-❤️ AI Healthcare Platform
+<img src="assets/projects/cardiocare.png"/>
 
 </td>
 
@@ -341,9 +345,9 @@ A modern expense management application featuring OCR-powered receipt scanning, 
 
 ## ❤️ CardioCare AI
 
-### Intelligent Heart Disease Prediction System
+### AI-Powered Heart Disease Prediction Platform
 
-Machine Learning powered healthcare application that predicts cardiovascular disease risk and provides intelligent health insights.
+A Machine Learning healthcare solution that predicts cardiovascular disease risk and delivers intelligent health insights through a modern Full Stack application.
 
 ### 🛠 Technologies
 
@@ -353,7 +357,7 @@ Machine Learning powered healthcare application that predicts cardiovascular dis
 
 <a href="https://github.com/zehranisar/CardioCare-AI">
 
-<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -364,33 +368,34 @@ Machine Learning powered healthcare application that predicts cardiovascular dis
 </table>
 
 ---
+
 <table>
 
 <tr>
 
-<td width="42%" align="center">
+<td width="42%">
 
-🏔 Tourism Management Platform
+<img src="assets/projects/majestic.png"/>
 
 </td>
 
 <td width="58%">
 
-## 🏔 Majestic North Tours
+## 🏔️ Majestic North Tours
 
-### Complete Tourism Management System
+### Smart Tourism Management Platform
 
-A full-stack tourism platform featuring tour management, online bookings, reviews, contact management, and an admin dashboard.
+A complete Full Stack tourism platform featuring secure authentication, online bookings, tour management, reviews, admin dashboard, and cloud deployment.
 
 ### 🛠 Technologies
 
-`React` • `FastAPI` • `PostgreSQL`
+`React` • `FastAPI` • `PostgreSQL` • `JWT` • `Cloud Deployment`
 
 <br>
 
 <a href="https://github.com/zehranisar/Majestic-North-Tours">
 
-<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -401,13 +406,14 @@ A full-stack tourism platform featuring tour management, online bookings, review
 </table>
 
 ---
+
 <table>
 
 <tr>
 
-<td width="42%" align="center">
+<td width="42%">
 
-🎉 Event Management Platform
+<img src="assets/projects/eventmanager.png"/>
 
 </td>
 
@@ -415,19 +421,19 @@ A full-stack tourism platform featuring tour management, online bookings, review
 
 ## 🎉 Event Manager
 
-### Smart Event Planning System
+### Smart Event Planning Mobile Application
 
-An event management application designed to simplify event organization, scheduling, and management through an intuitive interface.
+A native Android application built for seamless event scheduling, guest management, task tracking, venue organization, and notifications.
 
 ### 🛠 Technologies
 
-`React` • `Flask` • `SQLite`
+`Android Studio` • `Java` • `XML` • `SQLite`
 
 <br>
 
 <a href="https://github.com/zehranisar/Eventmanager">
 
-<img src="https://img.shields.io/badge/View Repository-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -436,6 +442,9 @@ An event management application designed to simplify event organization, schedul
 </tr>
 
 </table>
+
+---
+
 
 ---
 # 📊 GitHub Analytics
