@@ -233,10 +233,6 @@ Participated in Harvard University's CS50x Puzzle Day, solving collaborative pro
 </p>
 
 ---
-
-
-
----
 # 🤖 AI Domains
 Machine Learning • Predictive Analytics • OCR • AI Chatbots • Explainable AI • Intelligent Automation
 
