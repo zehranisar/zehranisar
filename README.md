@@ -481,7 +481,7 @@ A native Android application built for seamless event scheduling, guest manageme
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zehranisar&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zehranisar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </p>
 
