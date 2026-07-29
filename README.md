@@ -171,10 +171,13 @@ Deployment: Vercel
 </table>
 
 ---
-
 <p align="center">
 
-🚀 Building intelligent software powered by Artificial Intelligence, Machine Learning and Modern Full Stack Technologies.
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Expert-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-purple?style=for-the-badge"/>
 
 </p>
 
