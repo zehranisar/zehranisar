@@ -482,35 +482,35 @@ A native Android application built for seamless event scheduling, guest manageme
 ---
 # 🐍 Contribution Snake
 
+<div align="center">
 
+<i>Building consistently. Learning continuously. Growing with every contribution.</i>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zehranisar/ZEHRANISAR/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<br><br>
 
+<img src="https://raw.githubusercontent.com/zehranisar/zehranisar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
-
-
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/zehranisar">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/zehra-nisar-868ba3423/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 </p>
 
----
 ---
 
 # 🌟 Thanks for Visiting
