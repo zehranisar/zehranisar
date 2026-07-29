@@ -431,75 +431,27 @@ A native Android application built for seamless event scheduling, guest manageme
 </table>
 
 ---
-
-
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zehranisar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=zehranisar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehranisar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zehranisar&theme=github_dark"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zehranisar&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=github_dark"/>
-
-</p>
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zehranisar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----           
 # 🏅 GitHub Profile Metrics
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zehranisar&theme=github_dark"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zehranisar&theme=tokyonight"/>
 </p>
 
 <p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zehranisar&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zehranisar&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=github_dark"/>
-
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zehranisar&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zehranisar&theme=tokyonight"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zehranisar&theme=github_dark&utcOffset=5"/>
-
 </p>
 
 ---
+
+
 # 📈 Contribution Activity
 
 <p align="center">
