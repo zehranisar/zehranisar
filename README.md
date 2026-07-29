@@ -252,15 +252,7 @@ Railway • Render
 
 ---
 
-# 🤖 AI Domains
-Machine Learning • Predictive Analytics • OCR • AI Chatbots • Explainable AI • Intelligent Automation
 
----
-# 🌍 Development Philosophy
-
-> **"Building AI & Full Stack solutions that create meaningful impact across multiple industries through intelligent software engineering."**
-
----
 # 🚀 Featured Projects
 
 The following projects represent my journey in **Artificial Intelligence, Machine Learning, Full Stack Development, and Modern Software Engineering**.
