@@ -67,43 +67,44 @@ My work combines **Artificial Intelligence**, **Machine Learning**, and **modern
 I'm continuously exploring emerging AI technologies, improving my software engineering skills, and building impactful digital solutions that bridge innovation with real-world needs.
 
 ---
-# 🌟 Professional Highlights
+# 💼 Professional Snapshot
 
-- 🤖 Built AI-powered applications across **Healthcare, Energy, Finance, Tourism, and Event Management**
-- 🚀 Developed Full Stack solutions using **React, FastAPI, Flask, PostgreSQL, and SQLite**
-- 🧠 Certified in **Deep Learning, Machine Learning, Python for AI, and Ethical Hacking**
-- 🎓 CS50x Puzzle Day 2026 Participant (Harvard University)
-- 🌱 Passionate about Artificial Intelligence, Intelligent Automation, and Modern Software Engineering
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Role-AI%20%26%20Full%20Stack%20Developer-2563EB?style=for-the-badge"/>
 
-# ⚡ Quick Facts
+<img src="https://img.shields.io/badge/Education-BS%20Computer%20Science-0EA5E9?style=for-the-badge"/>
 
-- 🎓 Bachelor of Computer Science Student
-- 💻 AI & Full Stack Developer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently exploring Agentic AI
-- 🚀 Building real-world AI-powered applications
-- 🎯 Open to Internship & Collaboration Opportunities
+<img src="https://img.shields.io/badge/Location-Pakistan-14B8A6?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge"/>
 
-# 🚀 Current Focus
+</p>
 
-- 🤖 Developing AI-powered Full Stack Applications
+<p align="center">
 
-- ⚡ Exploring Agentic AI & Intelligent Automation
+<img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence-blue?style=flat-square"/>
 
-- 📊 Machine Learning & Predictive Analytics
+<img src="https://img.shields.io/badge/Backend-FastAPI-success?style=flat-square"/>
 
-- 🌐 REST API Development with FastAPI & Flask
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square"/>
 
-- 💻 Building Modern React Applications
+<img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square"/>
 
-- 📈 Continuously Improving System Design & Problem Solving Skills
+<img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Cloud-Vercel-black?style=flat-square"/>
+
+</p>
 
 ---
+<p align="center">
 
+🚀 5+ AI & Full Stack Projects • 🤖 Machine Learning Enthusiast • ⚡ FastAPI Expert • ⚛ React Developer • 📊 Data Analytics
+
+</p>
+
+---
 # 📜 Certifications
 
 <table>
@@ -450,7 +451,24 @@ A native Android application built for seamless event scheduling, guest manageme
 </p>
 
 ---
+# 👀 Profile Views
 
+p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zehranisar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=tokyonight"/>
+
+</p>
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zehranisar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---                
 
 # 📈 Contribution Activity
 
