@@ -72,76 +72,56 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 
 <br>
 ---
-
-# 💼 Professional Identity
+# 💼 Professional Profile
 
 <div align="center">
 
-## 👩‍💻 Zehra Nisar
+### 👩‍💻 AI Engineer • Full Stack Developer
 
-### AI Engineer • Full Stack Developer • Machine Learning Enthusiast
-
-*Designing intelligent software through Artificial Intelligence, Machine Learning, and Modern Full Stack Development.*
+I build scalable, AI-powered applications by combining **Artificial Intelligence**, **Machine Learning**, and **Modern Full Stack Development** to solve real-world problems.
 
 </div>
 
 <br>
 
 <table align="center">
-
 <tr>
 
 <td width="33%" align="center">
 
-## 🤖
-
-### AI & Intelligence
+### 🤖 AI
 
 Artificial Intelligence
 
 Machine Learning
 
-Scikit-learn
-
-Gemini AI
-
 Data Analytics
+
+Generative AI
 
 </td>
 
 <td width="33%" align="center">
 
-## 💻
-
-### Software Engineering
+### 💻 Development
 
 React
-
-JavaScript
-
-Vite
 
 FastAPI
 
 Flask
 
-REST APIs
-
 Node.js
+
+REST APIs
 
 </td>
 
 <td width="33%" align="center">
 
-## ☁
-
-### Cloud & Infrastructure
+### ☁ Cloud
 
 PostgreSQL
-
-MySQL
-
-SQLite
 
 Supabase
 
@@ -151,44 +131,34 @@ Railway
 
 Render
 
-GitHub
-
-Namecheap
-
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
 <div align="center">
 
-### ⚡ Development Toolkit
+### 🚀 Core Technologies
 
-🐍 **Python** &nbsp;&nbsp;•&nbsp;&nbsp;
-☕ **Java** &nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ **JavaScript** &nbsp;&nbsp;•&nbsp;&nbsp;
-🗄 **SQL**
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,flask,postgres,mysql,sqlite,supabase,git,github,vscode,vercel"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 🎓 **BS Computer Science**
 
-📍 **Pakistan**
+• 🇵🇰 Pakistan •
 
-🚀 **Open to AI, Machine Learning & Full Stack Development Opportunities**
+💼 **Open to AI, Machine Learning & Full Stack Opportunities**
 
 </div>
 
 ---
-
-<p align="center">
-
-### 💡 Building intelligent software powered by AI, engineered with modern technologies, and designed to create real-world impact.
-
-</p>
 
 ---
 
