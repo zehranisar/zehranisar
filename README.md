@@ -163,56 +163,50 @@ Railway • Render
 </div>
 
 ---
+# 🎓 Professional Development
 
-# 🏅 Learning Journey
+<div align="center">
+
+*"Committed to continuous learning through globally recognized programs in Artificial Intelligence, Machine Learning, Cybersecurity, and Software Engineering."*
+
+</div>
+
+<br>
 
 <table align="center">
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-## 🤖
+### 🤖 Artificial Intelligence
 
-### Artificial Intelligence
+🧠 Machine Learning Specialization
 
-Machine Learning
+🤖 Deep Learning Specialization
 
-Deep Learning
+🐍 Python for AI
 
-Python for AI
-
-**Coursera**
+**Provider:** Coursera
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-## 🔐
+### 🔐 Cybersecurity & Problem Solving
 
-### Cybersecurity
+🛡 Ethical Hacking
 
-Ethical Hacking
+🧩 CS50x Puzzle Day 2026
 
-**Learn With Experts**
-
-</td>
-
-<td align="center">
-
-## 🎓
-
-### Harvard
-
-CS50x Puzzle Day 2026
-
-Harvard University
+**Providers:** Learn With Experts • Harvard University
 
 </td>
 
 </tr>
 
 </table>
+
 
 
 ---
