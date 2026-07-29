@@ -71,80 +71,114 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 </p>
 
 <br>
+
+
 # 💼 Developer Dashboard
 
 <table align="center">
 
 <tr>
-<td width="28%"><b>👨‍💻 Role</b></td>
-<td><b>AI Engineer • Machine Learning Enthusiast • Full Stack Developer</b></td>
+
+<td width="50%" valign="top">
+
+### 👩‍💻 Developer
+
+```yaml
+Name          : Zehra Nisar
+Role          : AI Engineer
+               Full Stack Developer
+
+Education     : BS Computer Science
+
+Location      : Pakistan
+
+Status        : Open to Opportunities
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Core Expertise
+
+```yaml
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+💻 Full Stack Development
+
+⚡ REST API Development
+
+📊 Data Analytics
+
+☁ Cloud Deployment
+```
+
+</td>
+
 </tr>
 
 <tr>
-<td><b>🎓 Education</b></td>
-<td>BS Computer Science</td>
-</tr>
 
-<tr>
-<td><b>🤖 Specialization</b></td>
-<td>Artificial Intelligence • Machine Learning • Intelligent Software Systems</td>
-</tr>
+<td valign="top">
 
-<tr>
-<td><b>⚛ Frontend</b></td>
-<td>React • JavaScript • Vite • HTML5 • CSS3 • Responsive UI</td>
-</tr>
+### ⚛ Tech Stack
 
-<tr>
-<td><b>⚡ Backend</b></td>
-<td>FastAPI • Flask • REST APIs • JWT Authentication • Node.js</td>
-</tr>
+```yaml
+Frontend  : React
+            JavaScript
+            HTML5
+            CSS3
+            Vite
 
-<tr>
-<td><b>🗄 Databases</b></td>
-<td>PostgreSQL • MySQL • SQLite • Supabase</td>
-</tr>
+Backend   : FastAPI
+            Flask
+            Node.js
 
-<tr>
-<td><b>🐍 Programming</b></td>
-<td>Python • Java • JavaScript • SQL</td>
-</tr>
+Mobile    : Android Studio
+            Java
+```
 
-<tr>
-<td><b>🧠 AI & Data</b></td>
-<td>Scikit-learn • Gemini AI • Pandas • NumPy • Data Analytics</td>
-</tr>
+</td>
 
-<tr>
-<td><b>☁ Deployment</b></td>
-<td>Vercel • Render • Railway • GitHub Pages • Namecheap</td>
-</tr>
+<td valign="top">
 
-<tr>
-<td><b>📱 Mobile</b></td>
-<td>Android Studio • Java</td>
-</tr>
+### 🗄 Development Stack
 
-<tr>
-<td><b>🛠 Tools</b></td>
-<td>Git • GitHub • VS Code • Postman • Figma</td>
-</tr>
+```yaml
+Languages : Python
+            Java
+            JavaScript
+            SQL
 
-<tr>
-<td><b>🚀 Current Focus</b></td>
-<td>Building Production-Ready AI Applications, Full Stack Platforms & Intelligent Software Solutions</td>
-</tr>
+Database  : PostgreSQL
+            MySQL
+            SQLite
+            Supabase
 
-<tr>
-<td><b>🤝 Open To</b></td>
-<td>AI • Machine Learning • Full Stack Development • Software Engineering Opportunities</td>
+Deployment: Vercel
+            Railway
+            Render
+            GitHub
+            Namecheap
+```
+
+</td>
+
 </tr>
 
 </table>
 
 ---
 
+<p align="center">
 
+🚀 Building intelligent software powered by Artificial Intelligence, Machine Learning and Modern Full Stack Technologies.
+
+</p>
+
+---
 
 <p align="center">
 
@@ -496,19 +530,6 @@ A native Android application built for seamless event scheduling, guest manageme
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zehranisar&theme=tokyonight"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zehranisar&theme=github_dark&utcOffset=5"/>
-</p>
-
----
-# 👀 Profile Views
-
-p align="center">
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zehranisar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 ---                
