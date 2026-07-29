@@ -76,9 +76,9 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 
 <div align="center">
 
-### 👩‍💻 AI Engineer • Full Stack Developer
+### 👩‍💻 AI Engineer • Full Stack Developer • Intelligent Software Builder
 
-I build scalable, AI-powered applications by combining **Artificial Intelligence**, **Machine Learning**, and **Modern Full Stack Development** to solve real-world problems.
+*Building scalable AI-powered applications with modern technologies to solve real-world problems.*
 
 </div>
 
@@ -87,23 +87,25 @@ I build scalable, AI-powered applications by combining **Artificial Intelligence
 <table align="center">
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🤖 AI
+## 🤖 AI & ML
 
 Artificial Intelligence
 
 Machine Learning
 
+Generative AI
+
 Data Analytics
 
-Generative AI
+Scikit-learn
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 💻 Development
+## 💻 Full Stack
 
 React
 
@@ -115,21 +117,25 @@ Node.js
 
 REST APIs
 
+Vite
+
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### ☁ Cloud
+## ☁ Cloud & DevOps
 
 PostgreSQL
+
+MySQL
+
+SQLite
 
 Supabase
 
 Vercel
 
-Railway
-
-Render
+Railway • Render
 
 </td>
 
@@ -140,9 +146,9 @@ Render
 
 <div align="center">
 
-### 🚀 Core Technologies
+### 🛠 Core Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,flask,postgres,mysql,sqlite,supabase,git,github,vscode,vercel"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,flask,postgres,mysql,sqlite,supabase,git,github,vscode,vercel" />
 
 </div>
 
@@ -150,93 +156,64 @@ Render
 
 <div align="center">
 
-🎓 **BS Computer Science**
+🎓 <b>BS Computer Science</b>
 
-• 🇵🇰 Pakistan •
-
-💼 **Open to AI, Machine Learning & Full Stack Opportunities**
+🇵🇰 Pakistan • 🚀 Open to AI, Machine Learning & Full Stack Opportunities
 
 </div>
 
 ---
 
----
+# 🏅 Learning Journey
 
-
-<p align="center">
-
-🚀 5+ AI & Full Stack Projects • 🤖 Machine Learning Enthusiast • ⚡ FastAPI Expert • ⚛ React Developer • 📊 Data Analytics
-
-</p>
-
----
-# 📜 Certifications
-
-<table>
+<table align="center">
 
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 🧠 Deep Learning Specialization
+## 🤖
 
-**Platform:** Coursera
+### Artificial Intelligence
 
-Advanced concepts in Deep Learning, Neural Networks, and AI.
+Machine Learning
 
-</td>
+Deep Learning
 
-<td width="50%">
+Python for AI
 
-### 🤖 Machine Learning Specialization
-
-**Platform:** Coursera
-
-Comprehensive training in Machine Learning algorithms and predictive modeling.
+**Coursera**
 
 </td>
 
-</tr>
+<td align="center">
 
-<tr>
+## 🔐
 
-<td width="50%">
+### Cybersecurity
 
-### 🐍 Python for AI, Data Science and Development
+Ethical Hacking
 
-**Platform:** Coursera
-
-Python programming for Artificial Intelligence and Data Science applications.
+**Learn With Experts**
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 🛡️ Ethical Hacking
+## 🎓
 
-**Organization:** LWE
+### Harvard
 
-Fundamentals of cybersecurity, penetration testing, and ethical hacking.
+CS50x Puzzle Day 2026
 
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-### 🎓 CS50x Puzzle Day 2026
-
-**Harvard University**
-
-Participated in Harvard University's CS50x Puzzle Day, solving collaborative programming and logical reasoning challenges.
+Harvard University
 
 </td>
 
 </tr>
 
 </table>
+
 
 ---
 # 🛠 Tech Stack
