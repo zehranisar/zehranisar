@@ -103,16 +103,7 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 - 📈 Continuously Improving System Design & Problem Solving Skills
 
 ---
-# 📚 Currently Learning
 
-- 🧠 Agentic AI & AI Workflows
-- ⚡ Advanced FastAPI Architecture
-- ☁️ Cloud Deployment & DevOps
-- 🐳 Docker & Containerization
-- 🧩 System Design
-- 📈 Scalable Backend Development
-
----
 # 📜 Certifications
 
 <table>
@@ -475,13 +466,36 @@ A native Android application built for seamless event scheduling, guest manageme
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=github_dark"/>
 
 </p>
-
----
-# 🏆 GitHub Achievements
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zehranisar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://komarev.com/ghpvc/?username=zehranisar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---           
+# 🏅 GitHub Profile Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zehranisar&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zehranisar&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zehranisar&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zehranisar&theme=github_dark&utcOffset=5"/>
 
 </p>
 
@@ -505,15 +519,7 @@ A native Android application built for seamless event scheduling, guest manageme
 
 
 ---
-# 🤝 Open To
 
-- 💼 Software Engineering Internships
-- 🤖 AI & Machine Learning Projects
-- 🌐 Full Stack Web Development
-- 🚀 Open Source Collaboration
-- 💬 Technical Discussions & Networking
-
----
 
 # 📫 Let's Connect
 
@@ -541,14 +547,7 @@ A native Android application built for seamless event scheduling, guest manageme
 </p>
 
 ---
-# ✨ Beyond Coding
 
-- 💡 I enjoy turning innovative ideas into real applications.
-- 📊 I love working on AI-driven solutions.
-- 🌍 Passionate about solving real-world problems through technology.
-- 🚀 Always excited to learn emerging technologies.
-
----
 <p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
