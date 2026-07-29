@@ -207,60 +207,51 @@ Railway • Render
 
 </table>
 
-
-
 ---
 # 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql"/>
 
-</p>
+<br><br>
 
-### ⚛️ Frontend Development
+### ⚛ Frontend
 
-<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite"/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+<br><br>
 
-</p>
+### ⚡ Backend
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
 
-<p>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+### 🗄 Database
 
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase"/>
 
-### 🗄️ Database
+<br><br>
 
-<p>
+### ☁ Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=vercel,github"/>
 
-</p>
+<br><br>
 
-### 🤖 AI & Machine Learning
+### 🛠 Tools
 
-<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</div>
 
-</p>
 
-### ☁️ Deployment & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman"/>
-
-</p>
 
 ---
+
 # 🤖 AI Domains
 Machine Learning • Predictive Analytics • OCR • AI Chatbots • Explainable AI • Intelligent Automation
 
