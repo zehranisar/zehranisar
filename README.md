@@ -71,98 +71,89 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 </p>
 
 <br>
+---
 
+# 💼 Professional Identity
 
-# 💼 Developer Dashboard
+<div align="center">
+
+## 👩‍💻 Zehra Nisar
+
+### AI Engineer • Full Stack Developer • Machine Learning Enthusiast
+
+*Designing intelligent software through Artificial Intelligence, Machine Learning, and Modern Full Stack Development.*
+
+</div>
+
+<br>
 
 <table align="center">
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 👩‍💻 Developer
+## 🤖
 
-```yaml
-Name          : Zehra Nisar
-Role          : AI Engineer
-               Full Stack Developer
+### AI & Intelligence
 
-Education     : BS Computer Science
+Artificial Intelligence
 
-Location      : Pakistan
+Machine Learning
 
-Status        : Open to Opportunities
-```
+Scikit-learn
 
-</td>
+Gemini AI
 
-<td width="50%" valign="top">
-
-### 🚀 Core Expertise
-
-```yaml
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-💻 Full Stack Development
-
-⚡ REST API Development
-
-📊 Data Analytics
-
-☁ Cloud Deployment
-```
+Data Analytics
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+## 💻
 
-<td valign="top">
+### Software Engineering
 
-### ⚛ Tech Stack
+React
 
-```yaml
-Frontend  : React
-            JavaScript
-            HTML5
-            CSS3
-            Vite
+JavaScript
 
-Backend   : FastAPI
-            Flask
-            Node.js
+Vite
 
-Mobile    : Android Studio
-            Java
-```
+FastAPI
+
+Flask
+
+REST APIs
+
+Node.js
 
 </td>
 
-<td valign="top">
+<td width="33%" align="center">
 
-### 🗄 Development Stack
+## ☁
 
-```yaml
-Languages : Python
-            Java
-            JavaScript
-            SQL
+### Cloud & Infrastructure
 
-Database  : PostgreSQL
-            MySQL
-            SQLite
-            Supabase
+PostgreSQL
 
-Deployment: Vercel
-            Railway
-            Render
-            GitHub
-            Namecheap
-```
+MySQL
+
+SQLite
+
+Supabase
+
+Vercel
+
+Railway
+
+Render
+
+GitHub
+
+Namecheap
 
 </td>
 
@@ -170,18 +161,37 @@ Deployment: Vercel
 
 </table>
 
+<br>
+
+<div align="center">
+
+### ⚡ Development Toolkit
+
+🐍 **Python** &nbsp;&nbsp;•&nbsp;&nbsp;
+☕ **Java** &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ **JavaScript** &nbsp;&nbsp;•&nbsp;&nbsp;
+🗄 **SQL**
+
+<br><br>
+
+🎓 **BS Computer Science**
+
+📍 **Pakistan**
+
+🚀 **Open to AI, Machine Learning & Full Stack Development Opportunities**
+
+</div>
+
 ---
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Expert-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-purple?style=for-the-badge"/>
+### 💡 Building intelligent software powered by AI, engineered with modern technologies, and designed to create real-world impact.
 
 </p>
 
 ---
+
 
 <p align="center">
 
