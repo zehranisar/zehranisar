@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="assets/banner/banner.png" width="100%" alt="Zehra Nisar Banner"/>
-</p>
-<h1 align="center">
+
 
 Hi 👋 I'm Zehra Nisar
 
@@ -67,37 +64,88 @@ My work combines **Artificial Intelligence**, **Machine Learning**, and **modern
 I'm continuously exploring emerging AI technologies, improving my software engineering skills, and building impactful digital solutions that bridge innovation with real-world needs.
 
 ---
-# 💼 Professional Snapshot
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Role-AI%20%26%20Full%20Stack%20Developer-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Education-BS%20Computer%20Science-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Location-Pakistan-14B8A6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge"/>
+<i>Designing intelligent software with Artificial Intelligence, Machine Learning, and Modern Full Stack Development.</i>
 
 </p>
 
-<p align="center">
+<br>
+# 💼 Developer Dashboard
 
-<img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence-blue?style=flat-square"/>
+<table align="center">
 
-<img src="https://img.shields.io/badge/Backend-FastAPI-success?style=flat-square"/>
+<tr>
+<td width="28%"><b>👨‍💻 Role</b></td>
+<td><b>AI Engineer • Machine Learning Enthusiast • Full Stack Developer</b></td>
+</tr>
 
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square"/>
+<tr>
+<td><b>🎓 Education</b></td>
+<td>BS Computer Science</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square"/>
+<tr>
+<td><b>🤖 Specialization</b></td>
+<td>Artificial Intelligence • Machine Learning • Intelligent Software Systems</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=flat-square"/>
+<tr>
+<td><b>⚛ Frontend</b></td>
+<td>React • JavaScript • Vite • HTML5 • CSS3 • Responsive UI</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Cloud-Vercel-black?style=flat-square"/>
+<tr>
+<td><b>⚡ Backend</b></td>
+<td>FastAPI • Flask • REST APIs • JWT Authentication • Node.js</td>
+</tr>
 
-</p>
+<tr>
+<td><b>🗄 Databases</b></td>
+<td>PostgreSQL • MySQL • SQLite • Supabase</td>
+</tr>
+
+<tr>
+<td><b>🐍 Programming</b></td>
+<td>Python • Java • JavaScript • SQL</td>
+</tr>
+
+<tr>
+<td><b>🧠 AI & Data</b></td>
+<td>Scikit-learn • Gemini AI • Pandas • NumPy • Data Analytics</td>
+</tr>
+
+<tr>
+<td><b>☁ Deployment</b></td>
+<td>Vercel • Render • Railway • GitHub Pages • Namecheap</td>
+</tr>
+
+<tr>
+<td><b>📱 Mobile</b></td>
+<td>Android Studio • Java</td>
+</tr>
+
+<tr>
+<td><b>🛠 Tools</b></td>
+<td>Git • GitHub • VS Code • Postman • Figma</td>
+</tr>
+
+<tr>
+<td><b>🚀 Current Focus</b></td>
+<td>Building Production-Ready AI Applications, Full Stack Platforms & Intelligent Software Solutions</td>
+</tr>
+
+<tr>
+<td><b>🤝 Open To</b></td>
+<td>AI • Machine Learning • Full Stack Development • Software Engineering Opportunities</td>
+</tr>
+
+</table>
 
 ---
+
+
+
 <p align="center">
 
 🚀 5+ AI & Full Stack Projects • 🤖 Machine Learning Enthusiast • ⚡ FastAPI Expert • ⚛ React Developer • 📊 Data Analytics
@@ -455,11 +503,6 @@ A native Android application built for seamless event scheduling, guest manageme
 
 p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zehranisar&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zehranisar&theme=tokyonight"/>
-
-</p>
 # 👀 Profile Views
 
 <p align="center">
@@ -510,6 +553,49 @@ p align="center">
 </p>
 
 ---
+---
+
+# 🌟 Thanks for Visiting
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<h3>🚀 Building Intelligent Software with AI & Full Stack Development</h3>
+
+</p>
+
+<p align="center">
+
+Passionate about creating scalable applications powered by
+<b>Artificial Intelligence</b>,
+<b>Machine Learning</b>, and
+<b>Modern Full Stack Technologies</b>.
+
+</p>
+
+<br>
+
+<p align="center">
+
+🤝 <b>Open to collaborations, innovative projects, and exciting opportunities.</b>
+
+</p>
+
+<p align="center">
+
+⭐ <b>If you enjoy my work, consider starring my repositories.</b>
+
+</p>
+
+<br>
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=zehranisar&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
@@ -520,32 +606,6 @@ p align="center">
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<i>"Every great product begins with a single idea. Let's build the next one together."</i>
 
 </p>
-
----
-<p align="center">
-
-> **"Code with purpose. Build with intelligence. Create with impact."**
-
-</p>
-
-<h3 align="center">
-
-Thanks for visiting my profile ❤️
-
-</h3>
-
-<p align="center">
-
-Building intelligent software that bridges Artificial Intelligence and modern Full Stack Development.
-
-</p>
-
-<p align="center">
-
-⭐ If you enjoyed exploring my work, consider starring my repositories.
-
-</p>
-
