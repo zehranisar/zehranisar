@@ -71,7 +71,7 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 </p>
 
 <br>
----
+
 
 # 💼 Professional Profile
 
