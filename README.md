@@ -488,7 +488,7 @@ A native Android application built for seamless event scheduling, guest manageme
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/zehranisar/ZEHRANISAR/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/zehranisar/zehranisar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
