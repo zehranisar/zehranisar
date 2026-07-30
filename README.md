@@ -72,6 +72,7 @@ I'm continuously exploring emerging AI technologies, improving my software engin
 
 <br>
 ---
+
 # 💼 Professional Profile
 
 <div align="center">
@@ -481,14 +482,7 @@ A native Android application built for seamless event scheduling, guest manageme
 
 ---
 
-# 🐍 Contribution Snake
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zehranisar/ZEHRANISAR/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 # 🤝 Let's Connect
 
