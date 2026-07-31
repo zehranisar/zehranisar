@@ -259,7 +259,6 @@ The following projects represent my journey in **Artificial Intelligence, Machin
 Each project focuses on solving real-world problems through scalable architecture, clean user experiences, and intelligent technologies.
 
 ---
-# 🚀 Featured Projects
 
 <table>
 
