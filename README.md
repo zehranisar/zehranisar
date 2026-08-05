@@ -478,6 +478,19 @@ A native Android application built for seamless event scheduling, guest manageme
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<i>Every contribution tells a story of continuous learning and growth.</i>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/zehranisar/zehranisar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
 
 
 
