@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" rx="14" fill="url(#bg)"/>
+  <text x="600" y="54" text-anchor="middle" fill="#DBEAFE" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500">Thanks for visiting  ·  Let's build something great</text>
+</svg>

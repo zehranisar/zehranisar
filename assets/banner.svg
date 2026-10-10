@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Zehra Nisar, AI and Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <style>
+      .fade { opacity: 0; animation: rise 1s ease-out forwards; }
+      .d1 { animation-delay: .1s; } .d2 { animation-delay: .4s; } .d3 { animation-delay: .7s; }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .25; } 50% { opacity: .8; } }
+    </style>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <circle class="pulse" cx="1040" cy="70" r="5" fill="#22D3EE"/>
+  <circle class="pulse" cx="1110" cy="150" r="3.5" fill="#60A5FA" style="animation-delay:1s"/>
+  <circle class="pulse" cx="960" cy="200" r="4" fill="#93C5FD" style="animation-delay:2s"/>
+  <path d="M960 200 L1040 70 L1110 150 Z" fill="none" stroke="#60A5FA" stroke-opacity="0.35" stroke-width="1.2"/>
+  <text class="fade d1" x="80" y="125" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="1">Zehra Nisar</text>
+  <rect class="fade d2" x="82" y="148" width="120" height="5" rx="2.5" fill="url(#line)"/>
+  <text class="fade d2" x="80" y="196" fill="#BFDBFE" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="500">AI &amp; Full Stack Developer</text>
+  <text class="fade d3" x="80" y="236" fill="#93C5FD" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Machine Learning  ·  Reinforcement Learning  ·  React  ·  FastAPI</text>
+</svg>
