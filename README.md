@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-zehranisar75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehranisar75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zehra%20Nisar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-nisar-868ba3423/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zehra--portfolio--phi.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://zehra-portfolio-phi.vercel.app)
 
 <br>
 
@@ -139,7 +140,7 @@ Full stack **tourism platform for Gilgit-Baltistan** with secure authentication,
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gymnasium-0F9D58?style=flat-square"/> <img src="https://img.shields.io/badge/Stable--Baselines3-F2A93B?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/zehranisar/smart-traffic-rl)
+[![Live](https://img.shields.io/badge/Live%20demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-traffic-rl-three.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/zehranisar/smart-traffic-rl)
 
 ---
 
@@ -225,6 +226,7 @@ Have an idea, a product or a team that needs **AI, ML or full stack engineering*
 
 [![Email](https://img.shields.io/badge/Email-zehranisar75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehranisar75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-nisar-868ba3423/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zehra--portfolio--phi.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://zehra-portfolio-phi.vercel.app)
 
 <img src="https://img.shields.io/github/followers/zehranisar?style=flat-square&logo=github&label=GitHub%20followers&color=2563EB" alt="GitHub followers"/>
 
