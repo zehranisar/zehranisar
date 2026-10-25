@@ -6,7 +6,7 @@
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-zehranisr75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehranisr75@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zehranisar75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehranisar75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zehra%20Nisar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-nisar-868ba3423/)
 
 <br>
@@ -31,14 +31,14 @@
 
 ## 👩‍💻 About
 
-I'm a **BS Computer Science student at UIT** who likes building software that does something useful end to end: the model, the API, the interface and the deployment.
+I'm a **BS Computer Science student at Pir Mehr Ali Shah Arid Agriculture University** who likes building software that does something useful end to end: the model, the API, the interface and the deployment.
 
 My work covers **healthcare risk prediction**, **energy demand forecasting**, **expense tracking with OCR**, **tourism platforms** and a **reinforcement learning traffic-light controller**. Most of it ships as a working web app, not just a notebook.
 
 ```python
 class ZehraNisar:
     role      = "AI & Full Stack Developer"
-    studying  = "BS Computer Science, UIT"
+    studying  = "BS Computer Science"
     stack     = ["Python", "TypeScript", "React", "FastAPI", "PostgreSQL", "scikit-learn", "PyTorch"]
     currently = "Reinforcement Learning: smart traffic signal control"
 ```
@@ -49,7 +49,7 @@ class ZehraNisar:
 
 <table>
 <tr>
-<td width="24%" valign="top"><b>Aug 2026 – Oct 2026</b><br><sub>Onsite · Islamabad</sub></td>
+<td width="24%" valign="top"><b>Aug 25 – Oct 20, 2026</b><br><sub>Onsite · Islamabad</sub></td>
 <td valign="top">
 <b>Frontend Developer Intern</b> · <a href="https://www.wearegravite.com">Gravite</a><br>
 Built responsive, user-centric web applications inside a development team, writing clean code and turning code-review feedback into improvements.
@@ -58,7 +58,7 @@ Built responsive, user-centric web applications inside a development team, writi
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Jun 2026 – Aug 2026</b><br><sub>Khaplu</sub></td>
+<td valign="top"><b>Jun 2026 – Aug 2026</b><br><sub>Remote</sub></td>
 <td valign="top">
 <b>Front-End Development Intern</b> · ImagineTech Sol<br>
 Built responsive, user-friendly web interfaces and gained hands-on experience with modern front-end technologies.
@@ -67,7 +67,7 @@ Built responsive, user-friendly web interfaces and gained hands-on experience wi
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Jun – Aug</b><br><sub>Rawalpindi</sub></td>
+<td valign="top"><b>Jun 2026 – Aug 2026</b><br><sub>Rawalpindi</sub></td>
 <td valign="top">
 <b>Web Development Intern</b> · Digitronix360 Consulting<br>
 Website development and design, front-end work, maintenance and debugging of web solutions.
@@ -188,7 +188,7 @@ Projects built in collaboration:
 
 | Area | Program | Provider |
 |---|---|---|
-| 🤖 AI | Machine Learning Specialization · Deep Learning Specialization · Python for AI | Coursera |
+| 🤖 AI | Machine Learning Specialization · Python for AI · Android Application Development | Coursera |
 | 🔐 Security | Ethical Hacking & Cyber Security | Learning With Earning (LWE) |
 | ✍️ Content | Digital Content Writing Mastery | Learning With Earning (LWE) |
 | 🧩 Problem solving | CS50x Puzzle Day 2026 | Harvard University |
@@ -223,7 +223,7 @@ Projects built in collaboration:
 
 Have an idea, a product or a team that needs **AI, ML or full stack engineering**? Let's talk.
 
-[![Email](https://img.shields.io/badge/Email-zehranisr75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehranisr75@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zehranisar75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehranisar75@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-nisar-868ba3423/)
 
 <img src="https://img.shields.io/github/followers/zehranisar?style=flat-square&logo=github&label=GitHub%20followers&color=2563EB" alt="GitHub followers"/>
