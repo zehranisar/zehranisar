@@ -99,7 +99,7 @@ Full stack **tourism platform for Gilgit-Baltistan** with secure authentication,
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-[![Live](https://img.shields.io/badge/Live%20demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://cardio-scan-ai-nine.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/zehranisar/CardioScan.ai)
+[![Live](https://img.shields.io/badge/Live%20demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://cardio-scan-ai-sooty.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/zehranisar/CardioScan.ai)
 
 </td>
 </tr>
